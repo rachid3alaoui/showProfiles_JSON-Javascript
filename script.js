@@ -14,7 +14,7 @@ function loadData(event) {
       } else {
         const students = JSON.parse(xhr.responseText);
         let output = '';
-        console.log(students);
+        // console.log(students);
         for (let i = 0; i < number; i++) {
           output += `
           Student ${i} : <br>
