@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rachid",
+    "grade": 12
+  },
+  {
+    "id": 2,
+    "name": "Halima",
+    "grade": 16
+  },
+  {
+    "id": 3,
+    "name": "Hafsa",
+    "grade": 17
+  },
+  {
+    "id": 4,
+    "name": "Bouchra",
+    "grade": 20
+  },
+  {
+    "id": 5,
+    "name": "Yasisne",
+    "grade": 15
+  },
+  {
+    "id": 6,
+    "name": "Youness",
+    "grade": 14.4
+  }
+]
